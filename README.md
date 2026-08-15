@@ -16,3 +16,4 @@ Voices (Android): https://drive.google.com/file/d/14u-SW0qs7XiFnsepNSMXyop0838oF
 Rod and Karen voices fixed: https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_IvapiJe4DaihiukN/view?usp=sharing
 
 Note:  Android: download plotagon version 1.37.11 when you on new android devices or download plotagon version 1.30.0 if you on old android devices
+£ How to Get it?
