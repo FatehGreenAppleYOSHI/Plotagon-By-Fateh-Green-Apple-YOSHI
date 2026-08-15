@@ -1,4 +1,6 @@
 # Plotagon-By-Fateh-Green-Apple-YOSHI
+PC And Android
+
 this will get you plotagon golden ticket for free
 
 Click Releases then go to assets to get plotagon renewed cereproc license for joey and jennifer voices (copy the "CereProc" folder to C:\Program Files\Plotagon\Plotagon\Plotagon_Data\StreamingAssets)
