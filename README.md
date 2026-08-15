@@ -17,3 +17,9 @@ Rod and Karen voices fixed: https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_Iva
 
 Note:  Android: download plotagon version 1.37.11 when you on new android devices or download plotagon version 1.30.0 if you on old android devices
 # How to get it (if you already installed plotagon on you android and pc)
+# On pc
+first. copy all content to C:\ProgramData\PLOTAGON_PROGRAMDATA_GUID (Guid you have) then. on plotagon story desktop 1.30.0 only, copy the "CereProc" folder to C:\Program Files\Plotagon\Plotagon\Plotagon_Data\StreamingAssets
+# On android
+copy all content to Android\data\com.plotagon.plotagon\files and that's it
+
+
