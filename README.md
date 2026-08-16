@@ -21,5 +21,9 @@ Note:  Android: download plotagon version 1.37.11 when you on new android device
 first. copy all content to C:\ProgramData\PLOTAGON_PROGRAMDATA_GUID (Guid you have) then. on plotagon story desktop 1.30.0 only, copy the "CereProc" folder to C:\Program Files\Plotagon\Plotagon\Plotagon_Data\StreamingAssets
 # On android
 copy all content to Android\data\com.plotagon.plotagon\files and that's it
+# Example
+if you have your old android devices, download plotagon 1.30.0
+if you haave your new android devices, download plotagon 1.37.11
+
 
 
