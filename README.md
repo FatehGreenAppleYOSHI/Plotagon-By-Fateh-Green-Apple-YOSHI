@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_IvapiJe4DaihiukN/view?usp=shari
 Note:  Android: download plotagon version 1.37.11 when you on new android devices or download plotagon version 1.30.0 if you on old android devices
 # How to get it
 # On pc
-first. copy all content to C:\ProgramData\PLOTAGON_PROGRAMDATA_GUID (Guid you have) and that's it,
+first. copy all content to C:\ProgramData\PLOTAGON_PROGRAMDATA_GUID (Guid you have), Then copy StreamingAssets folder to C:\Program Files\Plotagon\Plotagon Studio\Plotagon Studio_Data
 # On android
 copy all content to Android\data\com.plotagon.plotagon\files and that's it
 # Example
