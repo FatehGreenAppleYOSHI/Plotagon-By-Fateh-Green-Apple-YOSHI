@@ -23,7 +23,7 @@ Note:  Android: download plotagon version 1.37.11 when you on new android device
 # On pc
 https://youtu.be/3GWz9vqM1TY?si=s8Ggku5_Lh47Nu4M
 # On android
-{Tutorial video coming soon../]
+https://youtu.be/d8iZ-MTedM4?si=qen6BMRJ4ySac9m0
 # Example
 if you have your old android devices, download plotagon 1.30.0
 if you have your new android devices, download plotagon 1.37.11
