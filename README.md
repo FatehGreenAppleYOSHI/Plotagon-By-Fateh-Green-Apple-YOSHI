@@ -15,7 +15,7 @@ https://drive.google.com/file/d/14u-SW0qs7XiFnsepNSMXyop0838oFI_n/view
 https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_IvapiJe4DaihiukN/view?usp=sharing 
 # How to get it
 # On pc
-https://youtu.be/ML9ySpXgg20 : 
+https://youtu.be/ML9ySpXgg20 : https://youtu.be/Uo97pvsMF3M?si=EzeONZfEvSeFkq_Y 
 # On android
 https://youtu.be/b7S_xnNcgjI : https://youtu.be/DMi5JylQrk0 
 
