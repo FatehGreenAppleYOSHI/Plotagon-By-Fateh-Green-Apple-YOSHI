@@ -16,8 +16,7 @@ https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_IvapiJe4DaihiukN/view?usp=shari
 # How to get it
 # On pc
 (coming soon) : https://youtu.be/Uo97pvsMF3M?si=EzeONZfEvSeFkq_Y 
-# On android (Only For Users that can access Android\data\ and Android\obb without zarchiver) (if you cannot access Android/data on your saunsung phone due to android restrictions the contents of this folder, you must use your computer or laptop because you on newer android devices)
-(Coming soon) : 
-
-
-
+# On android (Only For Users that can access Android\data\ and Android\obb without zarchiver)
+(Coming soon)
+# For samsung users
+(Coming soon)
