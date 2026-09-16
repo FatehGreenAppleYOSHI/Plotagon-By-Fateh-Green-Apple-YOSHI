@@ -19,4 +19,4 @@ https://youtu.be/sy85b9FWw0g?si=hoWB82TosxKOHClU : https://youtu.be/Uo97pvsMF3M?
 # On android (Only For Users that can access Android\data\ and Android\obb without zarchiver)
 (Coming soon)
 # For samsung users (if you cannot access Android\data)
-(Coming soon)
+https://youtu.be/LWA8KmQgx5E?si=igTA70FiLAKrIvv7
