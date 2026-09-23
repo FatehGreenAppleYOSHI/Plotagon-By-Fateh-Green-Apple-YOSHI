@@ -15,7 +15,7 @@ https://drive.google.com/file/d/14u-SW0qs7XiFnsepNSMXyop0838oFI_n/view
 https://drive.google.com/file/d/1q9-4pJP7pSCxGfV_IvapiJe4DaihiukN/view?usp=sharing 
 # How to get it
 # On pc
-https://youtu.be/sy85b9FWw0g?si=hoWB82TosxKOHClU : 
+https://youtu.be/sy85b9FWw0g?si=hoWB82TosxKOHClU : https://youtu.be/Q6BIYnrSxAU?si=DP6MwhPOlShuMRWs 
 # On android (Only For Users that can access Android\data\ and Android\obb without zarchiver)
 (Coming soon)
 # For samsung users (if you cannot access Android\data)
